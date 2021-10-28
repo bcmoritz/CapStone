@@ -6,6 +6,8 @@ Within the life insurance industry, underwriting can be a time-consuming task wh
 
 
 # Data Links
+Prudential DataSet
 https://www.kaggle.com/c/prudential-life-insurance-assessment/data
 
+Census DataSet
 https://data.census.gov/cedsci/table?q=ECNADMBEN2017.EC1752ADMBEN&tid=ECNADMBEN2017.EC1752ADMBEN&hidePreview=true
