@@ -1,0 +1,22 @@
+{
+    "now": "2021-11-08T17:19:33.460Z",
+    "perfNow": 270791580.5,
+    "diagnosticCorrelation": "5b80b3b5-dc82-4354-912a-9bbb66494151",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.20211102.4",
+        "environmentType": 3,
+        "resourceName": "group3-data-factory",
+        "resourceRegion": "centralus",
+        "resourceGroup": "Gen10-21-08",
+        "subscriptionId": "297b7582-13eb-4ed9-bfa4-e54b1475b7ba",
+        "sessionId": "4/5AC",
+        "operationId": "ynFoW",
+        "gitType": "live"
+    },
+    "additionalInfo": {
+        "selectedResource": "Producer and Consumer_copy1",
+        "selectedResourceType": "pipeline"
+    }
+}

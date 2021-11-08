@@ -1,0 +1,6 @@
+selected resource name:		Producer and Consumer_copy1
+selected resource type:		pipeline
+factory name:			group3-data-factory
+factory location:		centralus
+subscription id:		297b7582-13eb-4ed9-bfa4-e54b1475b7ba
+time of download (UTC):		Mon, 08 Nov 2021 17:19:33 GMT
