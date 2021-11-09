@@ -1,1 +1,11 @@
+Dashboard:
 https://app.powerbi.com/groups/94bed5d6-b084-45fd-8231-c3451f3e8b86/dashboards/7dc22ae8-f76f-4ed3-b95b-f51d3bbb057f?ctid=d4e104e3-ae7d-4371-a239-745aa8960cc9&pbi_source=linkShare
+
+
+Reports:
+https://app.powerbi.com/links/6yHC1amhO6?ctid=d4e104e3-ae7d-4371-a239-745aa8960cc9&pbi_source=linkShare
+https://app.powerbi.com/links/qI2PCfZbCn?ctid=d4e104e3-ae7d-4371-a239-745aa8960cc9&pbi_source=linkShare
+https://app.powerbi.com/links/iJekcdN2Uc?ctid=d4e104e3-ae7d-4371-a239-745aa8960cc9&pbi_source=linkShare
+
+
+The final visualizations we used in our dashboard may differe from what we initially created in our reports.
